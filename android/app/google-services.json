@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663538962438",
+    "project_id": "planting-c2dc4",
+    "storage_bucket": "planting-c2dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663538962438:android:0dac8e027c4378a25bf387",
+        "android_client_info": {
+          "package_name": "com.planapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663538962438-5k90k31j8lcq58rie4u9qcda5p0rtfbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATppC5OYrOUFw0Hn1nT3cVNP6FwX5Six4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663538962438-5k90k31j8lcq58rie4u9qcda5p0rtfbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
